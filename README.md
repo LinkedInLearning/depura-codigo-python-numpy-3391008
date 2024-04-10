@@ -1,12 +1,12 @@
 # Depura el código: Python y Numpy
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Depura el código: Python y Numpy`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Este curso es esencial para desarrolladores que buscan perfeccionar sus habilidades de depuración en Python, centrándose específicamente en la librería Numpy. A lo largo de las lecciones, explorarás la identificación y corrección de errores al trabajar con esta potente librería, ampliamente utilizada en campos como machine learning y procesamiento de imágenes. A través de un enfoque práctico, cada sección presenta un código en Python que emplea Numpy, permitiéndote analizar, detectar y corregir posibles errores, proporcionándote las habilidades necesarias para optimizar tu código y mejorar tu eficiencia en el desarrollo.
 
 ## Instrucciones
 
