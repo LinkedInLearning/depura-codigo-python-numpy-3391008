@@ -38,7 +38,6 @@ Este repositorio contiene uncuaderno de Jupyter con el código del curso. Tiene 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
-
+[lil-course-url]: https://www.linkedin.com/learning/depura-el-codigo-python-y-numpy/
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQE3Fw2SawzETw/learning-public-crop_675_1200/0/1719390491297?e=2147483647&v=beta&t=XRN09EILeMShHlqxao0nsKIBWRIH-E0pTC_Zq-3FhxU
 [1]: # (End of ES-Instruction ###############################################################################################)
